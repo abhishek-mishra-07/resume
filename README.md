@@ -1,36 +1,132 @@
-## Here lies my resume, my work and my life.
+  ---------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
+  **Abhishek Mishra**                                                                                                                  Email: [ahm.rimer\@gmail.com](mailto:)
+  [LinkedIn: https://www.linkedin.com/in/abhishek-harshvardhan-mishra/](https://www.linkedin.com/in/abhishek-harshvardhan-mishra/)                   Mobile:   +91-9616406460
+  [Online resume:   https://abhishek-mishra-07.github.io/resume/](https://abhishek-mishra-07.github.io/resume/)                      
+  ---------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
 
-Download official resume here - 
-Keep on reading for an unofficial one.
+  Education
+===========
 
-### Markdown
+-   -------------------------------------------------------------- -------------------------
+      **Netaji Subhash Engineering College**                                    Kolkata, India
+      *Bachelor of Technology - Information Technology; GPA: 7.27*     *July 2016 - June 2020*
+      -------------------------------------------------------------- -------------------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    ***Courses:** Operating Systems, Data Structures, Analysis Of
+    Algorithms, Artificial Intelligence, Machine Learning, Networking,
+    Databases*
 
-```markdown
-Syntax highlighted code block
+Skills Summary
+==============
 
-# Header 1
-## Header 2
-### Header 3
+-    **Languages**:       Python, PHP, C++, JavaScript, SQL, Bash, JAVA
 
-- Bulleted
-- List
+-    **Frameworks**:     Scikit, NLTK, SpaCy, TensorFlow, Keras, Django,
+    Flask, NodeJS, LAMP
 
-1. Numbered
-2. List
+-    **Tools**:               Kubernetes, Docker, GIT, PostgreSQL,
+    MySQL, SQLite
 
-**Bold** and _Italic_ and `Code` text
+-    **Platforms**:        Linux, Web, Windows, Arduino, Raspberry, AWS,
+    GCP, Alibaba Cloud, IBM Cloud
 
-[Link](url) and ![Image](src)
-```
+-    **Soft Skills**:        Leadership, Event Management, Writing,
+    Public Speaking, Time Management
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Experience
+==========
 
-### Jekyll Themes
+-   -------------------------------------- -----------------------
+      **Google Summer of Code - Submitty**                    Remote
+      *Student Developer (Full-time)*          *May 2019 - Sep 2019*
+      -------------------------------------- -----------------------
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhishek-mishra-07/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    -    **Discussion Forum Upgrades**: Refactor forum for performance
+        to handle large databases.
 
-### Support or Contact
+    -    **REST API for Discussion Forum**: Symphony & Twig based Forum
+        parts converted to API-first interface.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    -    **Ratchet PHP WebSocket**: Implemented a WebSocket for
+        low-latency real time exchange of posts and thread updates.
+
+-   --------------------------------------- ----------------------
+      **DataCamp Inc.**                                       Remote
+      *Instructor (Part-time, Contractual)*     *Dec 2018 - Present*
+      --------------------------------------- ----------------------
+
+    -    **Project Course - Find Movie Similarity from Plot Summaries**:
+        Created project based course using Unsupervised learning and
+        natural language processing.
+
+    -    **Tutorial - Introduction to Reinforcement Learning**: Created
+        tutorial for Q-learning RL algorithm and concepts.
+
+    -    **Impact**: Course has been taken by 250+ students so far with
+        4.65 average rating.
+
+Projects
+========
+
+-    **Vison - multimedia search engine (NLP, Search Engine, Web
+    Crawlers, Multimedia Processing)**: (Work in progress) Research
+    oriented, open source, search engine for bringing reverse multimedia
+    search to small & mid scale enterprises. Tech: Python, NodeJS, Intel
+    OpenVino Toolkit, Selenium, TensorFlow (October '18)
+
+-    **Reinforcement Learning based Traffic Control System
+    (Reinforcement Learning, Computer Vision)**: AI model to resolve
+    city traffic around 50% faster. Tech: Python, Alibaba Cloud,
+    Raspberry Pi, Arduino, SUMO & OpenCV. (August '18)
+
+-    **Panorama from Satellite Imagery using Distributed Computing
+    (Distributed Computing, Image Processing)**: Images clicked using
+    drones, provided by ISRO were stitched together using distributed
+    public compute nodes, effectively bringing down processing time
+    exponentially. Tech: PHP, C++, Java, Python (March '18)
+
+-    **Drag-n-drop machine learning learning environment (Web
+    Development, Machine Learning)**: Scratch like tool for implementing
+    machine learning pipelines along with built in tutorial for each
+    concept. Tech: Python, JavaScript (September '18)
+
+-    **Search Engine and Social Network(Web Development, Web Crawler,
+    Search)**: Created from scratch a social network and a search engine
+    based on the idea of integrating Facebook and Google. The launched
+    website was among top 1000 websites in India during 2012-2013. Tech:
+    PHP, MySQL, HTML, CSS, WebSockets, JavaScript, RSS, XML ( May '12)
+
+Publications
+============
+
+-    **Book: Deep Learning on Web (Web Development, Deep Learning)**:
+    Work in Progress book to be published by Packt Publishing in
+    late 2019. Tech: Django, Python, AWS, GCP, Azure (November '18)
+
+-    **Book: Deep Learning on Mobile Devices (Flutter App Development,
+    Deep Learning)**: Work in Progress book to be published by Packt
+    Publishing in late 2019. Tech: Flutter, Android, Firebase,
+    TensorFlow, Python, Dart (December '18)
+
+Honors and Awards
+=================
+
+Awarded title of Intel Software Innovator - May, 2019
+
+Second Runner's Up at TCS EngiNx Engineering Project Innovation Content
+- September, 2018
+
+Runner's Up at Facebook Developers Circle Hackathon - August, 2017
+
+Volunteer Experience
+====================
+
+-   ----------------------------------------------------------------------------------------------- ----------------------
+      **Community Lead at Developer Student Clubs NSEC**                                                      Kolkata, India
+      *Conducted online and offline technical & soft-skills training impacting over 3000 students.*     *Jan 2019 - Present*
+      ----------------------------------------------------------------------------------------------- ----------------------
+
+-   ------------------------------------------------------------------------------------------------ ----------------------
+      **Event Organizer at Google Developers Group Kolkata**                                                   Kolkata, India
+      *Organized events, conducted workshops and delivered workshops reaching over 7000 developers.*     *Jan 2018 - Present*
+      ------------------------------------------------------------------------------------------------ ----------------------

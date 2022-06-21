@@ -4,129 +4,124 @@
   [Online resume:   https://abhishek-mishra-07.github.io/resume/](https://abhishek-mishra-07.github.io/resume/)                      
   ---------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
 
-  Education
-===========
+#   Education
 
--   -------------------------------------------------------------- -------------------------
-      **Netaji Subhash Engineering College**                                    Kolkata, India
-      *Bachelor of Technology - Information Technology; GPA: 7.27*     *July 2016 - June 2020*
-      -------------------------------------------------------------- -------------------------
+-   --------------------------------------------------------------------------- -------------------------
+      **Indian Institute of Technology**                                                       Delhi, India
+      *M.S. Research - Telecommunication Technology and Management); GPA: 8.75*     *July 2016 - June 2018*
+      --------------------------------------------------------------------------- -------------------------
 
-    ***Courses:** Operating Systems, Data Structures, Analysis Of
-    Algorithms, Artificial Intelligence, Machine Learning, Networking,
-    Databases*
+    ***Patent filed via FIIT, IIT Delhi** A novel anti-ID spoofing
+    mechanism for low power/low bandwidth IoT networks*
 
-Skills Summary
-==============
+-   ------------------------------------------------------------------------------------ -------------------------
+      **University of Allahabad**                                                                   Prayagraj, India
+      *Bachelor of Technology - Electronics and Communication; Percentage: 68% (GPA: 8)*     *July 2011 - June 2016*
+      ------------------------------------------------------------------------------------ -------------------------
 
--    **Languages**:       Python, PHP, C++, JavaScript, SQL, Bash, JAVA
+# Experience
 
--    **Frameworks**:     Scikit, NLTK, SpaCy, TensorFlow, Keras, Django,
-    Flask, NodeJS, LAMP
+-   ---------------------------------- -----------------------
+      **Intel Technologies Pvt. Ltd.**          Bengaluru, India
+      *Lead Software Engineer*             *July 2018 - Current*
+      ---------------------------------- -----------------------
 
--    **Tools**:               Kubernetes, Docker, GIT, PostgreSQL,
-    MySQL, SQLite
+    -    **Innovation Lead**: Mentor interns/junior engineers and
+        contribute in disrupting existing approaches.
 
--    **Platforms**:        Linux, Web, Windows, Arduino, Raspberry, AWS,
-    GCP, Alibaba Cloud, IBM Cloud
+    -    **Reliability, Availability and Serviceability (RAS) domain
+        lead**: Developing tests and automation for Error spoofing,
+        detection, correction, logging and handling for server
+        platforms.
 
--    **Soft Skills**:        Leadership, Event Management, Writing,
-    Public Speaking, Time Management
+    -    **Lead Firmware Integration Developer**: Designed and developed
+        the tool to consume firmware from different owners and deliver
+        an Integrated Firmware Image (IFWI). Critical in customer
+        releases and firmware debugging.
 
-Experience
-==========
+# Skills Summary
 
--   -------------------------------------- -----------------------
-      **Google Summer of Code - Submitty**                    Remote
-      *Student Developer (Full-time)*          *May 2019 - Sep 2019*
-      -------------------------------------- -----------------------
+-    **Languages**:       Python, C, C++, MySQL, Bash
 
-    -    **Discussion Forum Upgrades**: Refactor forum for performance
-        to handle large databases.
+-    **Frameworks**:     Scikit, NLTK, SpaCy, TensorFlow, Keras, Hugging
+    face, REST
 
-    -    **REST API for Discussion Forum**: Symphony & Twig based Forum
-        parts converted to API-first interface.
+-    **Tools**:               PythonSV, Cscripts, Simics, ITP-DAL,
+    Container environments, GIT, MySQL, Teamcity, JIRA
 
-    -    **Ratchet PHP WebSocket**: Implemented a WebSocket for
-        low-latency real time exchange of posts and thread updates.
+# Innovation Projects
 
--   --------------------------------------- ----------------------
-      **DataCamp Inc.**                                       Remote
-      *Instructor (Part-time, Contractual)*     *Dec 2018 - Present*
-      --------------------------------------- ----------------------
+-   ------------------------------- ------------------------------
+      **Firmware Integration Tool**     Deployed, Dec 2020 - Current
+                                      
+      ------------------------------- ------------------------------
 
-    -    **Project Course - Find Movie Similarity from Plot Summaries**:
-        Created project based course using Unsupervised learning and
-        natural language processing.
+    Integrate individual firmware payloads submitted by stakeholders
+    into a single entity called the IFWI (Integrated Firmware Image).
+    Enable full customisation of IFWI to support multiple release
+    flavours and debugging.
 
-    -    **Tutorial - Introduction to Reinforcement Learning**: Created
-        tutorial for Q-learning RL algorithm and concepts.
+-   ---------------------------------- ------------------------------
+      **Change-based Validation Tool**     Deployed, Sep 2020 - Current
+                                         
+      ---------------------------------- ------------------------------
 
-    -    **Impact**: Course has been taken by 250+ students so far with
-        4.65 average rating.
+    This tool works on the idea that all new bugs in a release are
+    contributed by either software or any other changes going with the
+    release. This tool uses natural language processing to parse all
+    BIOS changes going inside the tool and identifies the features that
+    may be impacted by the changes. It also maps the features to the
+    test cases which can be run to capture any possible new bug.
 
-Projects
-========
+-   -------------------------------------------------- ---------------
+      **Left-shift Feature Coverage Enhancement Tool**     POC, Jan 2022
+                                                         
+      -------------------------------------------------- ---------------
 
--    **Vison - multimedia search engine (NLP, Search Engine, Web
-    Crawlers, Multimedia Processing)**: (Work in progress) Research
-    oriented, open source, search engine for bringing reverse multimedia
-    search to small & mid scale enterprises. Tech: Python, NodeJS, Intel
-    OpenVino Toolkit, Selenium, TensorFlow (October '18)
+    Identifies possible feature coverage gaps in current program. This
+    tool consumes previous generation data on internal and external
+    escapes and covered features and compares it to current coverage to
+    identify any possible enhancements.
 
--    **Reinforcement Learning based Traffic Control System
-    (Reinforcement Learning, Computer Vision)**: AI model to resolve
-    city traffic around 50% faster. Tech: Python, Alibaba Cloud,
-    Raspberry Pi, Arduino, SUMO & OpenCV. (August '18)
+-   ---------------------------------------------------------- ---------------
+      **HERO - Hierarchy Extraction Recommendation Optimiser**     POC, Jan 2020
+                                                                 
+      ---------------------------------------------------------- ---------------
 
--    **Panorama from Satellite Imagery using Distributed Computing
-    (Distributed Computing, Image Processing)**: Images clicked using
-    drones, provided by ISRO were stitched together using distributed
-    public compute nodes, effectively bringing down processing time
-    exponentially. Tech: PHP, C++, Java, Python (March '18)
+    A tool to help recommended existing test cases for reference during
+    new test content development. A recommendation system based on
+    identifying correct category for a given requirement document using
+    hierarchical classification.
 
--    **Drag-n-drop machine learning learning environment (Web
-    Development, Machine Learning)**: Scratch like tool for implementing
-    machine learning pipelines along with built in tutorial for each
-    concept. Tech: Python, JavaScript (September '18)
+# Research Work
 
--    **Search Engine and Social Network(Web Development, Web Crawler,
-    Search)**: Created from scratch a social network and a search engine
-    based on the idea of integrating Facebook and Google. The launched
-    website was among top 1000 websites in India during 2012-2013. Tech:
-    PHP, MySQL, HTML, CSS, WebSockets, JavaScript, RSS, XML ( May '12)
+-    **FW Validation using Change Based Validation Technology**:
+    Submitted in Design Test Tools Conference, Intel (Mar 2022)
 
-Publications
-============
+-    **Left-shift in Software Validation using Natural Language
+    Processing techniques**: Submitted in Design Test tools Conference
+    (Mar 2022)
 
--    **Book: Deep Learning on Web (Web Development, Deep Learning)**:
-    Work in Progress book to be published by Packt Publishing in
-    late 2019. Tech: Django, Python, AWS, GCP, Azure (November '18)
+-    **Change-based UEFI Validation using graph-ranked keyphrase
+    extraction techniques**: Finalist in AI track in Software
+    Professionals Conference, Intel (Dec 2020)
 
--    **Book: Deep Learning on Mobile Devices (Flutter App Development,
-    Deep Learning)**: Work in Progress book to be published by Packt
-    Publishing in late 2019. Tech: Flutter, Android, Firebase,
-    TensorFlow, Python, Dart (December '18)
+-    **A hybrid optimal execution strategy combining change-based and
+    yield-based filtering approaches**: Submitted in Software
+    Professionals Conference, Intel (Dec 2020)
 
-Honors and Awards
-=================
+-    **Cost-efficient execution by redundancy removal**: Submitted in
+    Software Professionals Conference, Intel (Dec 2020)
 
-Awarded title of Intel Software Innovator - May, 2019
+-    **Hierarchy extraction recommendation optimiser**: Submitted in
+    Design Test Tools Conference, Intel (Jan 2019)
 
-Second Runner's Up at TCS EngiNx Engineering Project Innovation Content
-- September, 2018
+# Recognitions and Awards
 
-Runner's Up at Facebook Developers Circle Hackathon - August, 2017
+::: {.description}
+Department Recognition Awards - 4 (Highest award on Org level)
 
-Volunteer Experience
-====================
+Spontaneous Recognition Awards - 5 (2nd highest award on Org level)
 
--   ----------------------------------------------------------------------------------------------- ----------------------
-      **Community Lead at Developer Student Clubs NSEC**                                                      Kolkata, India
-      *Conducted online and offline technical & soft-skills training impacting over 3000 students.*     *Jan 2019 - Present*
-      ----------------------------------------------------------------------------------------------- ----------------------
-
--   ------------------------------------------------------------------------------------------------ ----------------------
-      **Event Organizer at Google Developers Group Kolkata**                                                   Kolkata, India
-      *Organized events, conducted workshops and delivered workshops reaching over 7000 developers.*     *Jan 2018 - Present*
-      ------------------------------------------------------------------------------------------------ ----------------------
+Recognitions - 44
+:::
